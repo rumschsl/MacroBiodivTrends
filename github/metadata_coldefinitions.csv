@@ -1,0 +1,25 @@
+column_name,definition
+tot_abun,"total density of organisms in a sample,  individual per m2"
+YearCont,time of sample collection as continuous value incorporating day and month of sampling
+Year,year of sample collection
+Ecoregion_NARS,ecoregion
+PropID,proportion of the sampled identified
+AreaSampTot_m2,area of the sample
+Agency,agency that gathered the sample
+Gen_ID_Prop,proportion of the specimen identified to genus
+SiteNumber,site number
+landuse,dominant land use category
+Latitude_dd,latitude in decimal degrees
+Longitude_dd,longitutude in decimal degrees
+alpha,number of genera
+alpha.bar,average number of genera at sites within regions
+sc.gamma,sample coverage estimate of the number of genera within a region
+sc,percent coverage of sc.gamma
+sc.CL,confidence level of estimate of sc.gamma
+genera,identification of  the organism at the genera level
+Order,identification of  the organism at the order level
+Family,identification of  the organism at the family level
+Subfamily,identification of  the organism at the subfamily level
+col_label,designation of families given in dbRDA analysis
+PRE_POST,early (1993-2004) and late (2005-2019) time of sampling
+Aeshnidae:Viviparidae,presence or absence of families
